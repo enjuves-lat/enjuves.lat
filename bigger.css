@@ -1,0 +1,47 @@
+.initial {
+    background-image: url("imagenes/gif-stickers.gif");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 1800px;
+}
+
+.languages {
+    width: 500px;
+    margin: auto;
+    height: 2.5rem;
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 5vh;
+}
+
+.nav {
+    font-size: 3rem;
+    width: 800px;
+    height: fit-content;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    width: 120px;
+}
+
+.icons img {
+    max-height: 3rem;
+    align-items: center;
+    height: 100%;
+}
+     
+   h1 {
+    text-align: center;
+    width: 1000px;
+    font-size: 100px;
+    margin: auto;
+    padding-bottom: 400px;
+    }
